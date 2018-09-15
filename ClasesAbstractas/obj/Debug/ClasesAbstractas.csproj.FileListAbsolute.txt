@@ -1,0 +1,9 @@
+C:\Users\YERSON\Desktop\SlnClasesBD2\ClasesAbstractas\bin\Debug\ClasesAbstractas.exe.config
+C:\Users\YERSON\Desktop\SlnClasesBD2\ClasesAbstractas\bin\Debug\ClasesAbstractas.exe
+C:\Users\YERSON\Desktop\SlnClasesBD2\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\YERSON\Desktop\SlnClasesBD2\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\YERSON\Desktop\SlnClasesBD2\ClasesAbstractas\obj\Debug\ClasesAbstractas.exe
+C:\Users\YERSON\Desktop\SlnClasesBD2\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
+H:\BD2\SlnClasesBD2\ClasesAbstractas\bin\Debug\ClasesAbstractas.exe.config
+H:\BD2\SlnClasesBD2\ClasesAbstractas\obj\Debug\ClasesAbstractas.exe
+H:\BD2\SlnClasesBD2\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb

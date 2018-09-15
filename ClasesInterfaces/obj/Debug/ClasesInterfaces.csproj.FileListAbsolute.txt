@@ -1,0 +1,6 @@
+H:\BD2\SlnClasesBD2\ClasesInterfaces\bin\Debug\ClasesInterfaces.exe.config
+H:\BD2\SlnClasesBD2\ClasesInterfaces\bin\Debug\ClasesInterfaces.exe
+H:\BD2\SlnClasesBD2\ClasesInterfaces\bin\Debug\ClasesInterfaces.pdb
+H:\BD2\SlnClasesBD2\ClasesInterfaces\obj\Debug\ClasesInterfaces.csprojResolveAssemblyReference.cache
+H:\BD2\SlnClasesBD2\ClasesInterfaces\obj\Debug\ClasesInterfaces.exe
+H:\BD2\SlnClasesBD2\ClasesInterfaces\obj\Debug\ClasesInterfaces.pdb
